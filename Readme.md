@@ -75,4 +75,4 @@
 
 ### 10. Завантажити лабораторні роботи:
 
-- *git clone https://github.com/mosolab/DIP.git*
+- *git clone https://github.com/SVS97/DIP.git*
